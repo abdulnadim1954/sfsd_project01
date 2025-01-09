@@ -9,7 +9,7 @@
 #define MAX_CLASSE 10
 #define MAX_NOTES 4
 
-// Button identifiers
+
 #define BTN_ADD 101
 #define BTN_SEARCH 102
 #define BTN_MODIFY 103
